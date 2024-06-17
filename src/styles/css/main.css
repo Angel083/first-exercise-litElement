@@ -1,0 +1,16 @@
+:root {
+  --color-primary : #41729F;
+  --color-secundary : #274472;
+  --color-background : #eff5f6;
+  --color-background : #eff5f6;
+  --font-color-primary: #27272a;
+  --font-family-info : 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: var(--color-background);
+  padding: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+  color: var(--font-color-primary);
+}
